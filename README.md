@@ -7,10 +7,12 @@ Monstarlab Philippines Code Challenge
 ## API Key: qwer123
 
 ### API endpoints:
-GET /favorites - return that the user has previously favoritted.
+GET /favorites 
+- return that the user has previously favoritted.
 http://localhost:9090/api/v1/favorites
 
-POST /favorite/:id - add a favorite movie
+POST /favorite/:id 
+- add a favorite movie
 http://localhost:9090/api/v1/favorites:id
 
 GET /movies?search={search} 

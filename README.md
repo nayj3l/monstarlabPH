@@ -13,7 +13,7 @@ GET /favorites
 
 POST /favorite/:id 
 - add a favorite movie
-- http://localhost:9090/api/v1/favorites:id
+- http://localhost:9090/api/v1/favorites/7
 
 GET /movies?search={search} 
 - return popular movies or what the user searched for

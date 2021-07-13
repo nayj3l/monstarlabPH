@@ -6,7 +6,7 @@ Monstarlab Philippines Code Challenge
 ## Local URL: http://localhost:9090/api/v1/movies
 ## API Key: qwer123
 
-# API endpoints:
+### API endpoints:
 GET /favorites - return that the user has previously favoritted.
 http://localhost:9090/api/v1/favorites
 
